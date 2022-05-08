@@ -32,28 +32,38 @@ import { MatCardModule } from '@angular/material/card';
 import { NavComponent } from './components/nav/nav.component';
 import { HomeComponent } from './components/home/home.component';
 
-// Componentes do projeto
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    NavComponent,
+    NavComponent,    
     HomeComponent
   ],
   imports: [   
-   BrowserModule,
-   AppRoutingModule,
-   BrowserAnimationsModule,
-   MatButtonModule,
-   MatSidenavModule,
-   MatListModule,
-   MatIconModule,
-   //Forms
-   FormsModule,
-   ReactiveFormsModule,
-   //Requisições http
-   HttpClientModule,
+    BrowserModule,
+    AppRoutingModule,
+    BrowserAnimationsModule,
+    // Forms
+    FormsModule,
+    ReactiveFormsModule,
+    // Requisições http
+    HttpClientModule,
+    // Angular Material
+    MatFormFieldModule,
+    MatPaginatorModule,
+    MatCheckboxModule,
+    MatSnackBarModule,
+    MatToolbarModule,
+    MatSidenavModule,
+    MatButtonModule,
+    MatSelectModule,
+    MatInputModule,
+    MatRadioModule,
+    MatTableModule,
+    MatIconModule,
+    MatListModule,
+    MatCardModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
