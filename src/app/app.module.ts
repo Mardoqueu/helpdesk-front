@@ -38,13 +38,15 @@ import { NavComponent } from './components/nav/nav.component';
   declarations: [
     AppComponent,
     NavComponent
-   
   ],
   imports: [   
    BrowserModule,
    AppRoutingModule,
    BrowserAnimationsModule,
    MatButtonModule,
+   MatSidenavModule,
+   MatListModule,
+   MatIconModule,
    //Forms
    FormsModule,
    ReactiveFormsModule,
