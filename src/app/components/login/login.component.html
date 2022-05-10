@@ -30,7 +30,7 @@
          <mat-icon matSuffix>password</mat-icon>
       </mat-form-field>
         
-        <button [disabled]="!validaCampos()" class="full-width mat-elevation-z4" mat-stroked-button color="primary">Login</button>
-        {{creds.email}}
+        <button (click)="logar()" [disabled]="!validaCampos()" class="full-width mat-elevation-z4" mat-stroked-button color="primary">Login</button>
+        
       </form>  
 </div>
