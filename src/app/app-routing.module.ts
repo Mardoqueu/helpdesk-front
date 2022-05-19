@@ -11,6 +11,7 @@ import { NavComponent } from './components/nav/nav.component';
 import { TecnicoCreateComponent } from './components/tecnico/tecnico-create/tecnico-create.component';
 import { TecnicoUpdateComponent } from './components/tecnico/tecnico-update/tecnico-update.component';
 import { TecnicoListComponent } from './components/tecnicos/tecnico-list/tecnico-list.component';
+import { ChamadoListComponent } from './componets/chamado/chamado-list/chamado-list.component';
 import { TecnicoDeleteComponent } from './componets/tecnico/tecnico-delete/tecnico-delete.component';
 
 
@@ -32,6 +33,9 @@ const routes: Routes = [
       {path: 'clientes/create', component: ClienteCreateComponent},
       {path: 'clientes/update/:id', component: ClienteUpdateComponent},
       {path: 'clientes/delete/:id', component: ClienteDeleteComponent},
+
+      {path: 'chamados',           component: ChamadoListComponent},
+
 
 
     ]
