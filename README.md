@@ -37,7 +37,7 @@ Validações com Validations
 
 Protocolo HTTP no padrão REST
 
-Realizar deploy de ambos os sistemas na nuvem
+Realização de deploy de ambos os sistemas na nuvem
 
 ![1](https://user-images.githubusercontent.com/11077068/169576933-2c45e8c3-7f45-4d14-a129-358170474882.png)
 ![2](https://user-images.githubusercontent.com/11077068/169576944-993c4d91-701f-48fa-8ca5-8f092e145fef.png)
