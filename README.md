@@ -1,5 +1,25 @@
 O sistema está rodando na nuvem sendo o front na Vercel e o back na Heroku.
-O projeto tem como objetivo principal abordar os conceitos de aplicações SPAs, Autenticação e Autorização com Tokens JWT e muito mais. 
+O projeto tem como objetivo principal abordar os conceitos de aplicações SPAs, Autenticação e Autorização com Tokens JWT e muito mais.
+
+Conceitos de Spring Boot 2.x.x
+Spring Data JPA
+Hibernate
+Autenticação com Tokens JWT
+Autorização com Tokens JWT
+Conceitos de Angular 12
+Conceitos básicos de Typescript, HTML5 e CSS3
+Criar uma API RESTful
+Consumir uma API REST usando a ferramenta Postman
+Consumir uma API REST usando o front desenvolvido no curso
+Utilização do banco de dados h2 em tempo de compilação
+Tratamento de exceções de forma personalizada
+Desenvolvimento em camadas usando o padrão MVC
+Padrão DTO (Data Transfer Objects)
+MySQL em projeto Spring Boot
+Implementar perfis de Teste e Desenvolvimento
+Validações com Validations
+Protocolo HTTP no padrão REST
+Realização deploy de ambos os sistemas na nuvem
 
 ![1](https://user-images.githubusercontent.com/11077068/169576933-2c45e8c3-7f45-4d14-a129-358170474882.png)
 ![2](https://user-images.githubusercontent.com/11077068/169576944-993c4d91-701f-48fa-8ca5-8f092e145fef.png)
