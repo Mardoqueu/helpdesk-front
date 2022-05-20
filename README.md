@@ -1,6 +1,11 @@
 O sistema está rodando na nuvem sendo o front na Vercel e o back na Heroku.
 O projeto tem como objetivo principal abordar os conceitos de aplicações SPAs, Autenticação e Autorização com Tokens JWT e muito mais.
 
+Usuário para teste:
+Acessando: https://helpdesk-front-tawny.vercel.app/
+E-mail: mardoqueu@gmail.com
+Password: 123
+
 Conceitos de Spring Boot 2.x.x
 
 Spring Data JPA
