@@ -48,6 +48,7 @@ import { ChamadoListComponent } from './componets/chamado/chamado-list/chamado-l
 import { ComponentComponent } from './component/component.component';
 import { ChamadoCreateComponent } from './components/chamado/chamado-create/chamado-create.component';
 import { ChamadoUpdateComponent } from './componets/chamado/chamado-update/chamado-update.component';
+import { ChamadoReadComponent } from './componets/chamado/chamado-read/chamado-read.component';
 
 
 
@@ -68,7 +69,8 @@ import { ChamadoUpdateComponent } from './componets/chamado/chamado-update/chama
     ChamadoListComponent,
     ComponentComponent,
     ChamadoCreateComponent,
-    ChamadoUpdateComponent
+    ChamadoUpdateComponent,
+    ChamadoReadComponent
   ],
   imports: [   
     BrowserModule,
