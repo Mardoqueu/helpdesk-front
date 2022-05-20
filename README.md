@@ -1,3 +1,12 @@
+O sistema está rodando na nuvem sendo o front na Vercel e o back na Heroku.
+O projeto tem como objetivo principal abordar os conceitos de aplicações SPAs, Autenticação e Autorização com Tokens JWT e muito mais. 
+
+![1](https://user-images.githubusercontent.com/11077068/169576933-2c45e8c3-7f45-4d14-a129-358170474882.png)
+![2](https://user-images.githubusercontent.com/11077068/169576944-993c4d91-701f-48fa-8ca5-8f092e145fef.png)
+![3](https://user-images.githubusercontent.com/11077068/169576947-f4290414-2085-495e-827a-da3c1c819dbb.png)
+![4](https://user-images.githubusercontent.com/11077068/169576949-964ba4ab-f462-48e7-96ed-3d1bf0e3c2d5.png)
+
+
 # Helpdesk
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
