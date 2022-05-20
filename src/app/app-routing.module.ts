@@ -13,6 +13,7 @@ import { TecnicoCreateComponent } from './components/tecnico/tecnico-create/tecn
 import { TecnicoUpdateComponent } from './components/tecnico/tecnico-update/tecnico-update.component';
 import { TecnicoListComponent } from './components/tecnicos/tecnico-list/tecnico-list.component';
 import { ChamadoListComponent } from './componets/chamado/chamado-list/chamado-list.component';
+import { ChamadoReadComponent } from './componets/chamado/chamado-read/chamado-read.component';
 import { ChamadoUpdateComponent } from './componets/chamado/chamado-update/chamado-update.component';
 import { TecnicoDeleteComponent } from './componets/tecnico/tecnico-delete/tecnico-delete.component';
 
@@ -39,6 +40,8 @@ const routes: Routes = [
       {path: 'chamados',            component: ChamadoListComponent},
       {path: 'chamados/create',     component: ChamadoCreateComponent},
       {path: 'chamados/update/:id',  component: ChamadoUpdateComponent},
+      {path: 'chamados/read/:id',   component: ChamadoReadComponent},
+
 
 
 
