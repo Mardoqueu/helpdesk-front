@@ -54,7 +54,7 @@ Realização de deploy de ambos os sistemas na nuvem
 
 # Helpdesk
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Development server
 
